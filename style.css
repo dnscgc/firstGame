@@ -1,0 +1,43 @@
+body{
+    background: #fff;
+    color: #333;
+    font-family: Lato, sans-serif;
+}
+
+canvas{
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    border-color: coral;
+    border-width: 2px;
+    background-color: pink;
+ 
+}
+
+/* input[type="text"] {
+    margin-left: 10px;
+    font-size: 15px;
+    line-height: 10px;
+    height: 15px;
+    padding: 5px;
+    border: 1px solid rgb(47, 231, 188);
+    background: #fff;
+    border-radius: 3px;
+    font-family: Lato, sans-serif;
+    color: rgb(47, 231, 188);
+} */
+
+/* button {
+    background: black;
+    border-radius: 3px;
+    color: pink;
+    font-size: 15px;
+    width: 75px;
+    font-family: Lato, sans-serif;
+    cursor: pointer;
+}
+
+button:hover {
+    color: rgb(96, 85, 79);
+}; */
+
